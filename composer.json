@@ -1,8 +1,8 @@
 {
-    "name":         "rmiller/behat-spec",
+    "name":         "vukanac/behat-spec",
     "description":  "Behat and PhpSpec integration",
     "keywords":     ["BDD", "SpecBDD", "StoryBDD"],
-    "homepage":     "https://github.com/richardmiller/BehatSpec",
+    "homepage":     "https://github.com/vukanac/BehatSpec",
     "type":         "library",
     "license":      "MIT",
     "authors":      [
